@@ -1,4 +1,4 @@
-package recepteur;
+package emetteur_recepteur;
 import java.io.*;
 import java.net.*;
 
